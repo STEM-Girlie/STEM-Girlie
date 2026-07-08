@@ -5,10 +5,27 @@ Building small, intentional projects to strengthen my front‑end skills, cloud 
 
 ## 🛠️ Tech Stack & Skills  
 **Front‑End Development**  
-- HTML5, CSS3, JavaScript (ES6+)  
+- HTML5, CSS3, JavaScript, Python (ES6+)  
 - Responsive layouts, Flexbox, Grid  
 - DOM manipulation & event handling  
-- UI design fundamentals  
+- UI design fundamentals
+
+### **Languages**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### **Tools**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+### **Cloud**
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![AWS Cloud Practitioner](https://img.shields.io/badge/AWS%20Cloud%20Practitioner-Certified-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Microsoft Cloud Skills](https://img.shields.io/badge/Microsoft%20Cloud%20Skills-Certified-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
 
 **Cloud & Tools**  
 - AWS basics (EC2, S3, VPC, RDS, IAM)  
@@ -24,6 +41,8 @@ Building small, intentional projects to strengthen my front‑end skills, cloud 
 - State Management 
 
 ---
+## 👀 Visitor Counter
+![Visitor Count](https://komarev.com/ghpvc/?username=STEM-Girlie&style=for-the-badge&color=ff69b4)
 
 ## 🚀 Featured Projects  
 A few of the small apps I’ve built to practise JavaScript, UI design, and problem‑solving:
@@ -104,7 +123,6 @@ I’m focused on levelling up in:
 - UI Design Daily Practice (self‑study)
 - Keyboard Typing Speed Improvement (Keybr)
 
-  
 <!--
 **STEM-Girlie/STEM-Girlie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
